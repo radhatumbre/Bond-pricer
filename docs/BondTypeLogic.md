@@ -76,11 +76,15 @@ Price < Par
 
 This relationship is central:
 
-{Coupon Rate} > {Yield} -> {Premium Bond}
+```text id="h5ngh6"
+Coupon Rate > Yield -> Premium Bond
+```
 
 and
 
-{Coupon Rate} < {Yield} -> {Discount Bond}
+```text id="h5ngh6"
+Coupon Rate < Yield -> Premium Bond
+```
 
 ---
 
