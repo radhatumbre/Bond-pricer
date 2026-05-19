@@ -1,0 +1,11 @@
+Understand the absolute core of finance:
+
+time value of money
+discounting
+cashflows
+bond pricing
+
+
+to run file - g++ main.cpp Bond.cpp -o bond && ./bond
+
+
