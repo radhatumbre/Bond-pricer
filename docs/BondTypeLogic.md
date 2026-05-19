@@ -76,11 +76,11 @@ Price < Par
 
 This relationship is central:
 
-\text{Coupon Rate} > \text{Yield} \Rightarrow \text{Premium Bond}
+{Coupon Rate} > {Yield} -> {Premium Bond}
 
 and
 
-\text{Coupon Rate} < \text{Yield} \Rightarrow \text{Discount Bond}
+{Coupon Rate} < {Yield} -> {Discount Bond}
 
 ---
 
