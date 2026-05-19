@@ -1,4 +1,20 @@
-Yes — the cleaner finance logic is:
+A function that classifies the bond as:
+
+* Premium Bond
+* Discount Bond
+* Par Bond
+
+based on:
+
+```text id="66g9o2"
+price > face value  → Premium
+price < face value  → Discount
+price = face value  → Par
+```
+
+---
+
+Finance logic is:
 
 ```text id="df1i0o"
 Coupon Rate > Market Yield  → Premium
